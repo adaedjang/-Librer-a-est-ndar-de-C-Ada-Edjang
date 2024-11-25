@@ -1,4 +1,7 @@
-# -Librer-a-est-ndar-de-C-Ada-EdjangEnunciado
+https://github.com/adaedjang/-Librer-a-est-ndar-de-C-Ada-Edjang.git
+
+# -Librer-a-est-ndar-de-C-Ada-Edjang
+Enunciado:
 
 1. Las funciones comunes del lenguaje C (<stdlib.h>)
 
